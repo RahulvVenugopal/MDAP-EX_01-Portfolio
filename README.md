@@ -74,7 +74,7 @@ Upload to GitHub Pages for free hosting.
 
    
     <section id="intro" class="hero">
-        <h1>Hi, I'm <span>Rahul</span></h1>
+        <h1>Hello I'm <span>Rahul</span></h1>
         <p>I am a passionate Web Developer eager to create impactful and beautiful designs.</p>
         <a href="#projects" class="btn">View Projects</a>
     </section>
