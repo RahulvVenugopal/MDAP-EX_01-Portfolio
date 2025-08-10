@@ -325,8 +325,9 @@ nav {
 ```
 
 ## OUTPUT
-<img width="1897" height="861" alt="Screenshot 2025-08-10 232003" src="https://github.com/user-attachments/assets/55cb59af-7a7d-413e-8d3a-92c3e9e4814f" />
-<img width="1890" height="1029" alt="Screenshot 2025-08-10 232018" src="https://github.com/user-attachments/assets/2626d2be-4a91-47dc-8946-b736c1b05a06" />
+<img width="1897" height="1080" alt="Screenshot 2025-08-10 234445" src="https://github.com/user-attachments/assets/8912aef0-6588-4c65-9b62-f5c58be3809a" />
+<img width="1899" height="1086" alt="Screenshot 2025-08-10 234456" src="https://github.com/user-attachments/assets/1f882988-ca5d-4ddb-b757-d12b6a179435" />
+
 
 
 ## RESULT
